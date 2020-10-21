@@ -48,7 +48,8 @@ export class Header extends React.Component {
           {/* <!-- Sidebar user panel (optional) --> */}
           <div className="user-panel mt-3 pb-3 mb-3 d-flex">
             <div className="image text-center">
-              <img src="assets/img/logo/locroom1.png" className="chatroom_logo" alt="User Image"></img>
+            <h5>Navtrack</h5>
+              {/* <img src="assets/img/logo/locroom1.png" className="chatroom_logo" alt="User Image"></img> */}
             </div>
           </div>
            {/* <!-- Sidebar Menu --> */}
