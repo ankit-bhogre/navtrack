@@ -1,0 +1,59 @@
+/* Navigation body header section*/
+
+a.nav-link{
+color: #055379 !important;
+}
+
+
+/* conversion body height from loggerbody component */
+
+/* .sidenavbot_footer {
+    bottom: 0;
+    width: 98%;
+    position: absolute;
+    border-top: 1px solid #80808057;
+} */
+
+/* ADMIN loggedheader */
+
+.btn::before{
+    background: none !important;
+}
+.btn{
+    background:  #07597E !important;
+    border-color: #16181a !important;
+}
+
+.dropdownimg{
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-right: 8px;
+}
+.dpbtn::after {
+    display: none;
+}
+.chatroom_logo{
+    width: 69% !important;
+}
+.main-sidebar {
+    background: bottom;
+}
+.sidebar-collapse{
+    line-height: 2.4 !important;
+}
+
+/* New Css for Tracking */
+
+/* ++++++ Tracking section +++++++++ */
+
+.top_info_bg{
+    background: #ffffff;
+}
+.content-wrapper {
+    /* height: calc(100vh - 142px); */
+    padding:10px;
+}
+.map_body{
+    min-height: 600px;
+}
